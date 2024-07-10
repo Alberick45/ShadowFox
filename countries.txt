@@ -1,0 +1,102 @@
+ghana,West Africa,Accra,Gold Coast
+brazil,South America,Samba,Amazon
+canada,North America,Maple Leaf,Ottawa
+japan,East Asia,Samurai,Tokyo
+italy,Europe,Rome,Pizza
+France,Western Europe,Eiffel Tower,Baguette
+China,East Asia,Great Wall,Beijing
+India,South Asia,Taj Mahal,Bollywood
+Australia,Oceania,Sydney,Kangaroo
+Russia,Eurasia,Moscow,Matryoshka
+Egypt,North Africa,Pyramids,Cairo
+Mexico,North America,Sombrero,Tacos
+South Africa,Southern Africa,Mandela,Cape Town
+Argentina,South America,Tango,Buenos Aires
+Spain,Western Europe,Flamenco,Barcelona
+Germany,Central Europe,Oktoberfest,Berlin
+United Kingdom,Europe,London,Tea
+Nigeria,West Africa,Nollywood,Lagos
+Kenya,East Africa,Safari,Nairobi
+Saudi Arabia,Middle East,Riyadh,Desert
+Turkey,Eurasia,Istanbul,Ottoman
+South Korea,East Asia,K-Pop,Seoul
+Thailand,Southeast Asia,Bangkok,Muay Thai
+Pakistan,South Asia,Islamabad,Cricket
+Vietnam,Southeast Asia,Hanoi,Pho
+Philippines,Southeast Asia,Manila,Jeepney
+Colombia,South America,Coffee,Bogota
+Venezuela,South America,Caracas,Oil
+Peru,South America,Machu Picchu,Lima
+Chile,South America,Santiago,Wine
+Iran,Middle East,Tehran,Persian
+Iraq,Middle East,Baghdad,Ancient
+Afghanistan,South Asia,Kabul,Hindu Kush
+Bangladesh,South Asia,Dhaka,Bengal
+Myanmar,Southeast Asia,Yangon,Pagoda
+Indonesia,Southeast Asia,Jakarta,Bali
+Malaysia,Southeast Asia,Kuala Lumpur,Petronas
+Singapore,Southeast Asia,Merlion,Lion City
+New Zealand,Oceania,Kiwi,Wellington
+Morocco,North Africa,Marrakech,Casablanca
+Algeria,North Africa,Algiers,Sahara
+Ethiopia,East Africa,Addis Ababa,Coffee
+Uganda,East Africa,Kampala,Gorillas
+Tanzania,East Africa,Serengeti,Zanzibar
+Sudan,North Africa,Khartoum,Nile
+Ukraine,Eastern Europe,Kiev,Chernobyl
+Poland,Central Europe,Warsaw,Pierogi
+Netherlands,Western Europe,Amsterdam,Windmills
+Belgium,Western Europe,Brussels,Waffles
+Sweden,Scandinavia,Stockholm,Vikings
+Norway,Scandinavia,Oslo,Fjords
+Finland,Scandinavia,Helsinki,Sauna
+Denmark,Scandinavia,Copenhagen,Lego
+Greece,Southern Europe,Athens,Mythology
+Portugal,Southern Europe,Lisbon,Port Wine
+Switzerland,Central Europe,Zurich,Alps
+Austria,Central Europe,Vienna,Mozart
+Hungary,Central Europe,Budapest,Goulash
+Czech Republic,Central Europe,Prague,Beer
+Slovakia,Central Europe,Bratislava,Tatra
+Romania,Eastern Europe,Bucharest,Dracula
+Bulgaria,Eastern Europe,Sofia,Yogurt
+Serbia,Southeast Europe,Belgrade,Balkan
+Croatia,Southeast Europe,Zagreb,Adriatic
+Bosnia and Herzegovina,Southeast Europe,Sarajevo,Balkans
+Montenegro,Southeast Europe,Podgorica,Coastline
+North Macedonia,Southeast Europe,Skopje,Alexander
+Slovenia,Southeast Europe,Ljubljana,Alps
+Kosovo,Southeast Europe,Pristina,Independence
+Albania,Southeast Europe,Tirana,Eagle
+Latvia,Baltic,Riga,Baltic
+Lithuania,Baltic,Vilnius,Baltic
+Estonia,Baltic,Tallinn,Baltic
+Georgia,Caucasus,Tbilisi,Caucasus
+Armenia,Caucasus,Yerevan,Mount
+Azerbaijan,Caucasus,Baku,Flame
+Belarus,Eastern Europe,Minsk,Soviet
+Moldova,Eastern Europe,Chisinau,Wine
+Cyprus,Mediterranean,Nicosia,Greek
+Malta,Mediterranean,Valletta,Knights
+Iceland,North Atlantic,Reykjavik,Geysers
+Luxembourg,Western Europe,Luxembourg City,Banking
+Monaco,Western Europe,Monaco,Monte Carlo
+Andorra,South Europe,Andorra,Pyrenees
+Liechtenstein,Central Europe,Vaduz,Alpine
+San Marino,South Europe,San Marino,Enclaved
+Vatican City,South Europe,Vatican City,Pope
+Palau,Oceania,Ngerulmud,Jellyfish
+Nauru,Oceania,Yaren,Pacific
+Tuvalu,Oceania,Funafuti,Island
+Maldives,Indian Ocean,Malé,Atoll
+Seychelles,Indian Ocean,Victoria,Island
+Fiji,Melanesia,Suva,Pacific
+Vanuatu,Melanesia,Port Vila,Island
+Tonga,Polynesia,Nuku'alofa,Kingdom
+Samoa,Polynesia,Apia,Polynesian
+Kiribati,Micronesia,South Tarawa,Atoll
+Marshall Islands,Micronesia,Majuro,Pacific
+Micronesia,Micronesia,Palikir,Caroline
+Solomon Islands,Melanesia,Honiara,Guadalcanal
+Papua New Guinea,Melanesia,Port Moresby,Highlands
+Timor-Leste,Southeast Asia,Dili,Independence

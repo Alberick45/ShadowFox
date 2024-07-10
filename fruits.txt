@@ -1,0 +1,15 @@
+Apple,Red,Crunchy,Orchard
+Banana,Yellow,Peel,Tropical
+Orange,Citrus,Juice,Vitamin C
+Mango,Tropical,Sweet,Juicy
+Pineapple,Tropical,Spiky,Sweet
+Watermelon,Summer,Juicy,Seed
+Strawberry,Red,Sweet,Berry
+Grape,Purple,Vine,Seedless
+Kiwi,Green,Tangy,New Zealand
+Lemon,Sour,Yellow,Citrus
+Peach,Fuzzy,Sweet,Stone Fruit
+Cherry,Red,Pit,Tart
+Pear,Green,Juicy,Tree
+Avocado,Green,Creamy,Guacamole
+Coconut,Tropical,Palm,Milk

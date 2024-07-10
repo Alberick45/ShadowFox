@@ -1,0 +1,10 @@
+Tomato,Red,Fruit,Sauce
+Potato,Starch,Root,Fry
+Carrot,Orange,Crunchy,Beta-carotene
+Spinach,Green,Leafy,Popeye
+Broccoli,Green,Tree-like,Nutritious
+Cucumber,Green,Cool,Salad
+Onion,White,Layers,Tear
+Garlic,Pungent,Bulb,Flavor
+Bell Pepper,Red,Green,Crunchy
+Eggplant,Purple,Nightshade,Aubergine

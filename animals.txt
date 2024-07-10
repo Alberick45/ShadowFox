@@ -1,0 +1,26 @@
+
+Lion,Savannah,Roar,Pride
+Elephant,Trunk,Africa,Herd
+Tiger,Stripes,Asia,Bengal
+Giraffe,Neck,Tall,Africa
+Panda,Bamboo,China,Endangered
+Koala,Eucalyptus,Australia,Marsupial
+Kangaroo,Pouch,Hop,Australia
+Zebra,Stripes,Africa,Herd
+Dolphin,Ocean,Smart,Pod
+Whale,Ocean,Mammal,Blue
+Penguin,Antarctic,Waddle,Ice
+Gorilla,Jungle,Silverback,Primate
+Cheetah,Speed,Africa,Fastest
+Polar Bear,Arctic,Ice,Ursus
+Crocodile,Nile,Reptile,Jaws
+Hippopotamus,River,Hippo,Water
+Ostrich,Run,Africa,Feather
+Rhinoceros,Horn,Africa,Charge
+Komodo Dragon,Indonesia,Lizard,Venomous
+Orangutan,Borneo,Primate,Orange
+Sloth,Tree,Slow,South America
+Camel,Desert,Hump,Arabia
+Seal,Ocean,Blubber,Arctic
+Octopus,Tentacle,Smart,Ink
+Flamingo,Pink,Lake,Bird
